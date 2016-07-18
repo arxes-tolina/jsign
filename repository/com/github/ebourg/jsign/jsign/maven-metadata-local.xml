@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.github.ebourg.jsign</groupId>
+  <artifactId>jsign</artifactId>
+  <versioning>
+    <versions>
+      <version>1.3-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20160718072556</lastUpdated>
+  </versioning>
+</metadata>
